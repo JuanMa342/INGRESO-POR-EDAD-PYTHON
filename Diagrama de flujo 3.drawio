@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
+  <diagram name="Página-1" id="DZEAtYjKguuJhFFk3Jcs">
+    <mxGraphModel dx="1106" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-3" edge="1" parent="1" source="tOUuWK-ZA5xBHP42rwiA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tOUuWK-ZA5xBHP42rwiA-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-5" edge="1" parent="1" source="tOUuWK-ZA5xBHP42rwiA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tOUuWK-ZA5xBHP42rwiA-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Mostrar mensaje: &quot;Por favor,&lt;div&gt;ingrese la edad del cliente&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="240" x="290" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-7" edge="1" parent="1" source="tOUuWK-ZA5xBHP42rwiA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tOUuWK-ZA5xBHP42rwiA-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-9" edge="1" parent="1" source="tOUuWK-ZA5xBHP42rwiA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tOUuWK-ZA5xBHP42rwiA-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="Si edad &amp;gt;= 18" vertex="1">
+          <mxGeometry height="130" width="200" x="310" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-6" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Asignarle a la variable&lt;div&gt;permitido que sea Verdadero&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="180" x="580" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-12" edge="1" parent="1" source="tOUuWK-ZA5xBHP42rwiA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tOUuWK-ZA5xBHP42rwiA-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-10" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Asignarle a la variable&lt;div&gt;permitido que sea falso&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="180" x="320" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-15" edge="1" parent="1" source="tOUuWK-ZA5xBHP42rwiA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tOUuWK-ZA5xBHP42rwiA-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-18" edge="1" parent="1" source="tOUuWK-ZA5xBHP42rwiA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tOUuWK-ZA5xBHP42rwiA-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="¿ Está permitido el&lt;div&gt;ingreso según la&lt;/div&gt;&lt;div&gt;edad ?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="200" x="310" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-21" edge="1" parent="1" source="tOUuWK-ZA5xBHP42rwiA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tOUuWK-ZA5xBHP42rwiA-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-16" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Mostrar mensaje: &quot;Lo sentimos mucho,&lt;div&gt;no se puede ingresar a la&amp;nbsp;&lt;/div&gt;&lt;div&gt;discoteca siendo&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;menor de edad&quot;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="240" x="290" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-19" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Mostrar mensaje: &quot;¡Puedes&lt;div&gt;ingresar a la discoteca!&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="240" x="550" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Si" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="414" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Si" vertex="1">
+          <mxGeometry height="30" width="60" x="500" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="tOUuWK-ZA5xBHP42rwiA-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="840" as="sourcePoint" />
+            <mxPoint x="680" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOUuWK-ZA5xBHP42rwiA-29" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="840" as="sourcePoint" />
+            <mxPoint x="410" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
